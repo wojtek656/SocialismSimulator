@@ -1,0 +1,4 @@
+SocialismSimulator
+==================
+
+SocialismSimulator Tusk Edition 
